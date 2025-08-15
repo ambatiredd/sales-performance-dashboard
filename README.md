@@ -61,12 +61,6 @@ This project demonstrates how business intelligence tools like Power BI can be u
 
 ---
 
-## Author
-
-- 🔗 [LinkedIn – Vallarasu Karnan](https://www.linkedin.com/in/vallarasu-karnan-a276ab26b/)  
-- 💻 [GitHub – vallarasukarnan](https://github.com/vallarasukarnan)
-
----
 
 ## If you liked this project, please give it a star!
 
